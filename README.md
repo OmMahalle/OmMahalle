@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Om ! 👋
 
-<!--
-**OmMahalle/OmMahalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate data analyst with a knack for turning raw data into actionable insights. With a background in Data Analytics, I bring experience in analyzing data and extracting valuable insights to drive business decisions.
 
-Here are some ideas to get you started:
+## 🔍 What I Do
+- Analyze large datasets using statistical methods and data visualization tools.
+- Develop and implement data-driven strategies to optimize processes and improve performance.
+- Create interactive dashboards and reports to communicate findings to stakeholders.
+- Collaborate with cross-functional teams to identify opportunities for data-driven solutions.
+- Stay updated with the latest trends and technologies in data analysis and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, SciPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Database Management:** MySQL
+- **Machine Learning:** Scikit-learn, TensorFlow
+- **Tools:** Excel, Power BI, Jupyter Notebook
+
+
+## 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/om-mahalle108/
+- Email: ommahalle2018@gmail.com
+
